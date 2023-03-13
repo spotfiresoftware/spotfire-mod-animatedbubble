@@ -2,7 +2,7 @@
 
 <img src="assets/animatedbubble.png" width="60%"/>
 
-Display a selectable list of unique values in a column or a hierarchy.
+Show how 2-4 measures changes over time. This method of visualizing changes over time was popularized by Hans Rosling in a famous TED talk from 2006 where he used it to show changes in global health and economics.
 
 ## Installation & Use
 
