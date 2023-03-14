@@ -6,6 +6,8 @@ Show how 2-4 measures changes over time. This method of visualizing changes over
 
 ## Installation & Use
 
+[Download latest version](https://github.com/TIBCOSoftware/spotfire-mod-animatedbubbles/releases)
+
 The [Wiki](https://github.com/TIBCOSoftware/spotfire-mod-animatedbubble/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
 ## Building the Project
